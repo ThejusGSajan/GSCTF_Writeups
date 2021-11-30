@@ -8,7 +8,7 @@
 ---
 Seeing the .txt file just left me baffled cus I couldn't make heads or tails of it, but the hint put me back on track. My first instict was to make a websearch for [esosteric languages](https://en.wikipedia.org/wiki/Esoteric_programming_language) and sure enough, that was all that was necessary. 
 
-A quick `ctrl + F` through the wikipedia entry on esosteric languages gave me what I needed.
+A quick `ctrl + F` through the wikipedia entry on esosteric languagesgave me what I needed.
 
 ![wiki](./attachments/wiki.png "wikipedia page")
 
